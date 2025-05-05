@@ -1,0 +1,10 @@
+{
+    "file_format_version": "1.0.0",
+    "runtime": {
+        "library_path": "C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.dll",
+        "functions": {
+           "xrNegotiateLoaderRuntimeInterface":
+               "TestRuntimeAlwaysFailNegotiateLoaderRuntimeInterface"
+       }
+    }
+}

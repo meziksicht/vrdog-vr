@@ -1,0 +1,6 @@
+﻿  Generating API Layer JSON C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/layers/XrApiLayer_test.json using -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/layers/XrApiLayer_test.json -n test -l C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/XrApiLayer_test.dll -a 1.1 -v 1 -b -d Test_description
+  ../../test_layers/XrApiLayer_test.dll
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/loader_test/test_layers/CMakeLists.txt
+  layer_test.cpp
+     Vytváří se knihovna C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/XrApiLayer_test.lib a objekt C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/XrApiLayer_test.exp.
+  XrApiLayer_test.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\test_layers\XrApiLayer_test.dll

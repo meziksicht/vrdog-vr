@@ -1,0 +1,20 @@
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\BUILD\WIN64\CMAKEFILES\44E2F7C416A7A5556542ADF651F47FA7\TEST_RUNTIME.JSON.RULE
+setlocal
+"C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\python3.11.exe" C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts/generate_runtime_manifest.py -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/runtimes/test_runtime.json -l C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.dll -b
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\SRC\TESTS\LOADER_TEST\TEST_RUNTIMES\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main -BC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64 --check-stamp-file C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

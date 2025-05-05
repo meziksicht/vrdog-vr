@@ -1,0 +1,35 @@
+﻿  Generating xr_generated_loader.hpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on loader_source_generator.py
+  * Building xr_generated_loader.hpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating xr_generated_loader.cpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on loader_source_generator.py
+  * Building xr_generated_loader.cpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/loader/CMakeLists.txt
+  android_utilities.cpp
+  api_layer_interface.cpp
+  loader_core.cpp
+  loader_init_data.cpp
+  loader_instance.cpp
+  loader_logger.cpp
+  loader_logger_recorders.cpp
+  manifest_file.cpp
+  runtime_interface.cpp
+  object_info.cpp
+  xr_generated_loader.cpp
+  filesystem_utils.cpp
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Generování kódu...
+  xr_generated_dispatch_table_core.c
+  openxr_loader.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\loader\Debug\openxr_loaderd.lib

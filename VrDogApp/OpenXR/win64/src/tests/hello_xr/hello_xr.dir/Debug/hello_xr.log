@@ -1,0 +1,20 @@
+﻿  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/hello_xr/CMakeLists.txt
+  d3d_common.cpp
+  graphicsplugin_d3d11.cpp
+  graphicsplugin_d3d12.cpp
+  graphicsplugin_factory.cpp
+  graphicsplugin_opengl.cpp
+  graphicsplugin_opengles.cpp
+  graphicsplugin_vulkan.cpp
+  graphicsplugin_metal.cpp
+  logger.cpp
+  main.cpp
+  openxr_program.cpp
+  pch.cpp
+  platformplugin_android.cpp
+  platformplugin_factory.cpp
+  platformplugin_posix.cpp
+  platformplugin_win32.cpp
+  Generování kódu...
+     Vytváří se knihovna C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/hello_xr/Debug/hello_xr.lib a objekt C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/hello_xr/Debug/hello_xr.exp.
+  hello_xr.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\hello_xr\Debug\hello_xr.exe

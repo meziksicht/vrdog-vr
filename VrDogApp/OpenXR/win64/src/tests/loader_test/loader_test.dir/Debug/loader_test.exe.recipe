@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\x64\Debug\generate_openxr_header</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\x64\Debug\xr_common_generated_files</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers\XrApiLayer_api_dump.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\x64\Debug\xr_global_generated_files</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\test_layers\XrApiLayer_test.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\test_runtimes\test_runtime.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\Debug\loader_test.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

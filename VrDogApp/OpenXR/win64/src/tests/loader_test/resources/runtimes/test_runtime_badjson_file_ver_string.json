@@ -1,0 +1,6 @@
+{
+    "file_format_version": "invalid string",
+    "runtime": {
+        "library_path": "C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.dll",
+    }
+}

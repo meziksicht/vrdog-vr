@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\d3d_common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_d3d11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_d3d12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_factory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_opengl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_opengles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_vulkan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin_metal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\openxr_program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformplugin_android.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformplugin_factory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformplugin_posix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformplugin_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\check.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\common.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\d3d_common.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\geometry.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsapi.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\graphicsplugin.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\logger.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\openxr_program.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\options.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\pch.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformdata.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\platformplugin.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\vulkan_shaders\frag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\tests\hello_xr\vulkan_shaders\vert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{8E094619-1DEA-3E89-8CE1-62A624DFF04C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{FF366A4D-3F4F-3248-991F-8285F6BDF185}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0016B141-DBB6-38DE-AFF6-CCB1C9717522}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

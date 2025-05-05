@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\android_utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\api_layer_interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_init_data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_instance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_logger_recorders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\manifest_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\runtime_interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\common\object_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\loader\xr_generated_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\xr_generated_dispatch_table_core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\common\filesystem_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\external\jsoncpp\src\lib_json\json_reader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\external\jsoncpp\src\lib_json\json_value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\external\jsoncpp\src\lib_json\json_writer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\android_utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\api_layer_interface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_init_data.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_instance.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_logger.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader_logger_recorders.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\manifest_file.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\runtime_interface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\common\hex_and_handles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\common\object_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\common\platform_utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\loader\xr_generated_loader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\xr_generated_dispatch_table_core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\95353b540066869104b215dca174f69e\xr_generated_loader.hpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\95353b540066869104b215dca174f69e\xr_generated_loader.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\openxr-loader.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\src\loader\loader.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D1510FFA-839B-3B31-AA17-F2DD16E299A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1CC8F645-C4DF-3088-8E55-1D97CDFAFB19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0016B141-DBB6-38DE-AFF6-CCB1C9717522}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

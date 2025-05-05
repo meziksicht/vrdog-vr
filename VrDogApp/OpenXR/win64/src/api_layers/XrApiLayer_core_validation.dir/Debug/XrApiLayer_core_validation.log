@@ -1,0 +1,25 @@
+﻿  Generating xr_generated_core_validation.hpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on validation_layer_generator.py
+  * Building xr_generated_core_validation.hpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating xr_generated_core_validation.cpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on validation_layer_generator.py
+  * Building xr_generated_core_validation.cpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating API Layer JSON C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_core_validation.json using -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_core_validation.json -n LUNARG_core_validation -l ./XrApiLayer_core_validation.dll -a 1.1 -v 1  -d API Layer to perform validation of api calls and parameters as they occur
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/api_layers/CMakeLists.txt
+  core_validation.cpp
+  object_info.cpp
+  xr_generated_core_validation.cpp
+  Generování kódu...
+  xr_generated_dispatch_table.c
+     Vytváří se knihovna C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_core_validation.lib a objekt C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_core_validation.exp.
+  XrApiLayer_core_validation.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers\XrApiLayer_core_validation.dll

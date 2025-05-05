@@ -1,0 +1,5 @@
+﻿  Generating Runtime JSON C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/runtimes/test_runtime.json using -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/runtimes/test_runtime.json -l C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.dll -b
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/loader_test/test_runtimes/CMakeLists.txt
+  runtime_test.cpp
+     Vytváří se knihovna C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.lib a objekt C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/test_runtime.exp.
+  test_runtime.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\test_runtimes\test_runtime.dll

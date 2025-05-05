@@ -1,0 +1,22 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/include/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/include/openxr/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/loader/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/external/catch2/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/external/catch2/src/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/c_compile_test/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/hello_xr/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/list_json/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/list/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/cmake_install.cmake",
+		"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_runtimes/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

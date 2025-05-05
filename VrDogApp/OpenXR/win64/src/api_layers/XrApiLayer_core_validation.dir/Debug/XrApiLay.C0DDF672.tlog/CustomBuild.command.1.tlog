@@ -1,0 +1,52 @@
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\BUILD\WIN64\CMAKEFILES\EBE72682FD69ADE7F5DD79ECA4778326\XR_GENERATED_CORE_VALIDATION.HPP.RULE
+setlocal
+cd C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E env "PYTHONPATH=C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/scripts";"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts";"" "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe" C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts/src_genxr.py -registry C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/registry/xr.xml xr_generated_core_validation.hpp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\BUILD\WIN64\CMAKEFILES\EBE72682FD69ADE7F5DD79ECA4778326\XR_GENERATED_CORE_VALIDATION.CPP.RULE
+setlocal
+cd C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E env "PYTHONPATH=C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/scripts";"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts";"" "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe" C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts/src_genxr.py -registry C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/registry/xr.xml xr_generated_core_validation.cpp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\BUILD\WIN64\CMAKEFILES\EBE72682FD69ADE7F5DD79ECA4778326\XRAPILAYER_CORE_VALIDATION.JSON.RULE
+setlocal
+cd C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E env "PYTHONPATH=C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/scripts";"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts";"" "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe" C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts/generate_api_layer_manifest.py -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_core_validation.json -n LUNARG_core_validation -l ./XrApiLayer_core_validation.dll -a 1.1 -v 1 -d "API Layer to perform validation of api calls and parameters as they occur"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\SRC\API_LAYERS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main -BC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64 --check-stamp-file C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

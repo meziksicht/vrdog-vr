@@ -1,0 +1,24 @@
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\BUILD\WIN64\CMAKEFILES\7D8D9CF166E2DD075BCD89A3B13856ED\XRAPILAYER_TEST.JSON.RULE
+setlocal
+cd C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\test_layers
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E env "PYTHONPATH=C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/specification/scripts";"C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts";"" "C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe" C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/scripts/generate_api_layer_manifest.py -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/resources/layers/XrApiLayer_test.json -n test -l C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/XrApiLayer_test.dll -a 1.1 -v 1 -b -d Test_description
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\KRYST\DESKTOP\XRSIM\LOLEC\OPENXR-SDK-SOURCE-MAIN\SRC\TESTS\LOADER_TEST\TEST_LAYERS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main -BC:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64 --check-stamp-file C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

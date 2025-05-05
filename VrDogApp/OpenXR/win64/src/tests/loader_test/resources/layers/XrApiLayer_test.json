@@ -1,0 +1,21 @@
+{
+    "file_format_version": "1.0.0",
+    "api_layer": {
+        "name": "XR_APILAYER_test",
+        "library_path": "C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/tests/loader_test/test_layers/XrApiLayer_test.dll",
+        "api_version": "1.1",
+        "implementation_version": "1",
+        "description": "Test_description",
+        "disable_environment": "test_disabled",
+        "instance_extensions": [
+            {
+                "name": "XR_KHR_fake_ext2",
+                "extension_version": "12"
+            },
+            {
+                "name": "XR_KHR_fake_ext3",
+                "extension_version": "42"
+            }
+        ]
+    }
+}
