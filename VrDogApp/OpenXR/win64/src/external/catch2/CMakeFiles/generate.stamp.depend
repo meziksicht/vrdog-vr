@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/CMakeFiles/cmake.verify_globs
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/external/catch2/CMake/CatchConfigOptions.cmake
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/external/catch2/CMakeLists.txt

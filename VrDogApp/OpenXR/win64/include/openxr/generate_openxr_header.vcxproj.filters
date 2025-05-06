@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr_loader_negotiation.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr_platform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr_reflection.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr_reflection_parent_structs.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\72280351dfbc0f5f4532dbd69f67c335\openxr_reflection_structs.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\CMakeFiles\5a319210a0a8b4402af698fba65b293a\generate_openxr_header.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\include\openxr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\include\openxr\CMakeFiles\generate_openxr_header" />
+  </ItemGroup>
+  <ItemGroup>
+    <XML Include="C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\specification\registry\xr.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D1510FFA-839B-3B31-AA17-F2DD16E299A4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

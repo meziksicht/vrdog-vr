@@ -1,0 +1,24 @@
+﻿  Generating xr_generated_api_dump.hpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on api_dump_generator.py
+  * Building xr_generated_api_dump.hpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating xr_generated_api_dump.cpp using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on api_dump_generator.py
+  * Building xr_generated_api_dump.cpp
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating API Layer JSON C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_api_dump.json using -f C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_api_dump.json -n LUNARG_api_dump -l ./XrApiLayer_api_dump.dll -a 1.1 -v 1  -d API Layer to record api calls as they occur
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/api_layers/CMakeLists.txt
+  api_dump.cpp
+  xr_generated_api_dump.cpp
+  Generování kódu...
+  xr_generated_dispatch_table.c
+     Vytváří se knihovna C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_api_dump.lib a objekt C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/src/api_layers/XrApiLayer_api_dump.exp.
+  XrApiLayer_api_dump.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\api_layers\XrApiLayer_api_dump.dll

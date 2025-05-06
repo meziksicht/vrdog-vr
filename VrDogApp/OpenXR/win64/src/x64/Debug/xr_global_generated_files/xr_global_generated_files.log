@@ -1,0 +1,17 @@
+﻿  Generating xr_generated_dispatch_table_core.c using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on utility_source_generator.py
+  * Building xr_generated_dispatch_table_core.c
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Generating xr_generated_dispatch_table_core.h using C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0/python3.11.exe on utility_source_generator.py
+  * Building xr_generated_dispatch_table_core.h
+  * options.versions          = .*
+  * options.emitversions      = .*
+  * options.defaultExtensions = openxr
+  * options.addExtensions     = _nomatch_^
+  * options.removeExtensions  = _nomatch_^
+  * options.emitExtensions    = .*
+  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/CMakeLists.txt

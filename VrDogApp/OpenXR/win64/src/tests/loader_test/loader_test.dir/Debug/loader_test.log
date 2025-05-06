@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/loader_test/CMakeLists.txt
+  loader_test_utils.cpp
+  loader_test.cpp
+  filesystem_utils.cpp
+  Generování kódu...
+  loader_test.vcxproj -> C:\Users\kryst\Desktop\xrSim\lolec\OpenXR-SDK-Source-main\build\win64\src\tests\loader_test\Debug\loader_test.exe

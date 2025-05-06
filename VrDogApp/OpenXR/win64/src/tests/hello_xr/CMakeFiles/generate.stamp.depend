@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/build/win64/CMakeFiles/cmake.verify_globs
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/hello_xr/CMakeLists.txt
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/hello_xr/vulkan_shaders/frag.spv
+C:/Users/kryst/Desktop/xrSim/lolec/OpenXR-SDK-Source-main/src/tests/hello_xr/vulkan_shaders/vert.spv
